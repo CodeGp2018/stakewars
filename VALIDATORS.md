@@ -211,7 +211,7 @@ We encourage to try delegation yourself, staking some tokens to other validators
 | ;\ | papsan-pool |Validating in the future | @papsan1.betanet | 10% | UA | | |
 | O_O | Nearcola | another validator | @bonsfi.betanet | -% | DE | | |
 | | stake-machine | For the wealth of the ecosystem! | @akme.betanet | 10% | RU | | |
-
+| Yoo | Yoo_Staking | For Near | @satoshi_near.betanet | 10% | CN | [@yoo_staking.satoshi_near.betanet](https://explorer.betanet.near.org/accounts/yoo_staking.satoshi_near.betanet) | YES |
 
 Notes:
 - `Pool` attribute is referred to the id of delegation contract. As a validator, you can deploy the reference [Staking Pool Contract](https://github.com/near/initial-contracts), or create your own.
